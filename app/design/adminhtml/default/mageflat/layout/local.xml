@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<layout version="0.1.0">
+    <default>
+        <reference name="head">
+            <action method="addLinkRel">
+                <rel>stylesheet</rel>
+                <href>//fonts.googleapis.com/css?family=Open+Sans:300,400,600,700</href>
+            </action>
+
+            <action method="removeItem">
+                <type>skin_css</type>
+                <name>menu.css</name>
+            </action>
+
+            <action method="addItem">
+                <type>skin_css</type>
+                <name>dist/styles/main.css</name>
+            </action>
+
+        </reference>
+    </default>
+</layout>
