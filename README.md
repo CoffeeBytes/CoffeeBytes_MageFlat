@@ -1,4 +1,4 @@
-# CoffeeBytes MageFlat Magento 1.9.x Admin Theme
+# MageFlat Magento 1.9.x Admin Theme
 
 <h3>Installation</h3>
 
