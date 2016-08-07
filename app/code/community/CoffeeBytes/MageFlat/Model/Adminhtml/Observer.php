@@ -8,7 +8,7 @@ class CoffeeBytes_MageFlat_Model_Adminhtml_Observer
 {
     public function setTheme()
     {
-        $theme = Mage::getStoreConfig('mageflat_admintheme/config/theme');
+        $theme = Mage::getStoreConfig('coffeebytes_mageflat/config/theme');
         Mage::getDesign()->setTheme($theme);
         foreach (array('layout', 'template', 'skin', 'locale') as $type) {
             Mage::getDesign()->setTheme($type, $theme);

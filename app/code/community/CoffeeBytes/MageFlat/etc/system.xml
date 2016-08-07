@@ -9,7 +9,7 @@
     <sections>
         <coffeebytes_mageflat translate="label" module="coffeebytes_mageflat">
             <label>Admin Theme</label>
-            <tab>mageflat</tab>
+            <tab>coffeebytes</tab>
             <sort_order>1000</sort_order>
             <show_in_default>1</show_in_default>
             <show_in_website>1</show_in_website>
