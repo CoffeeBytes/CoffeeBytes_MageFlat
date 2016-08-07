@@ -15,19 +15,6 @@
 /app/design/adminhtml/default/MageFlat/template/system/store/tree.phtml /app/design/adminhtml/default/MageFlat/template/system/store/tree.phtml
 /app/design/adminhtml/default/MageFlat/template/widget/grid.phtml /app/design/adminhtml/default/MageFlat/template/widget/grid.phtml
 /app/etc/modules/CoffeeBytes_MageFlat.xml /app/etc/modules/CoffeeBytes_MageFlat.xml
-/skin/adminhtml/default/MageFlat/app/images/ajax-loader-tr.gif /skin/adminhtml/default/MageFlat/app/images/ajax-loader-tr.gif
-/skin/adminhtml/default/MageFlat/app/images/icon-error.png /skin/adminhtml/default/MageFlat/app/images/icon-error.png
-/skin/adminhtml/default/MageFlat/app/images/icon-notice.png /skin/adminhtml/default/MageFlat/app/images/icon-notice.png
-/skin/adminhtml/default/MageFlat/app/images/icon-success.png /skin/adminhtml/default/MageFlat/app/images/icon-success.png
-/skin/adminhtml/default/MageFlat/app/images/icon-warning.png /skin/adminhtml/default/MageFlat/app/images/icon-warning.png
-/skin/adminhtml/default/MageFlat/app/images/logo-dark.svg /skin/adminhtml/default/MageFlat/app/images/logo-dark.svg
-/skin/adminhtml/default/MageFlat/app/images/logo.svg /skin/adminhtml/default/MageFlat/app/images/logo.svg
-/skin/adminhtml/default/MageFlat/app/styles/common/_variables.scss /skin/adminhtml/default/MageFlat/app/styles/common/_variables.scss
-/skin/adminhtml/default/MageFlat/app/styles/main.scss /skin/adminhtml/default/MageFlat/app/styles/main.scss
-/skin/adminhtml/default/MageFlat/app/styles/templates/_form.scss /skin/adminhtml/default/MageFlat/app/styles/templates/_form.scss
-/skin/adminhtml/default/MageFlat/app/styles/templates/_menu.scss /skin/adminhtml/default/MageFlat/app/styles/templates/_menu.scss
-/skin/adminhtml/default/MageFlat/app/styles/templates/_override.scss /skin/adminhtml/default/MageFlat/app/styles/templates/_override.scss
-/skin/adminhtml/default/MageFlat/bower.json /skin/adminhtml/default/MageFlat/bower.json
 /skin/adminhtml/default/MageFlat/dist/images/ajax-loader-tr.gif /skin/adminhtml/default/MageFlat/dist/images/ajax-loader-tr.gif
 /skin/adminhtml/default/MageFlat/dist/images/icon-error.png /skin/adminhtml/default/MageFlat/dist/images/icon-error.png
 /skin/adminhtml/default/MageFlat/dist/images/icon-notice.png /skin/adminhtml/default/MageFlat/dist/images/icon-notice.png
@@ -36,7 +23,6 @@
 /skin/adminhtml/default/MageFlat/dist/images/logo-dark.svg /skin/adminhtml/default/MageFlat/dist/images/logo-dark.svg
 /skin/adminhtml/default/MageFlat/dist/images/logo.svg /skin/adminhtml/default/MageFlat/dist/images/logo.svg
 /skin/adminhtml/default/MageFlat/dist/styles/main.css /skin/adminhtml/default/MageFlat/dist/styles/main.css
-/skin/adminhtml/default/MageFlat/gulpfile.babel.js /skin/adminhtml/default/MageFlat/gulpfile.babel.js
 /skin/adminhtml/default/MageFlat/lib/prototype/windows/themes/magento/btn_bg.gif /skin/adminhtml/default/MageFlat/lib/prototype/windows/themes/magento/btn_bg.gif
 /skin/adminhtml/default/MageFlat/lib/prototype/windows/themes/magento/content_bg.gif /skin/adminhtml/default/MageFlat/lib/prototype/windows/themes/magento/content_bg.gif
 /skin/adminhtml/default/MageFlat/lib/prototype/windows/themes/magento/top_bg.gif /skin/adminhtml/default/MageFlat/lib/prototype/windows/themes/magento/top_bg.gif
